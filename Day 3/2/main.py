@@ -1,7 +1,7 @@
 
 import re
 from functools import reduce
-data_path = '../input.txt'
+data_path = '../test.txt'
 
 with open(data_path, 'r') as file:
     lines = file.readlines()
