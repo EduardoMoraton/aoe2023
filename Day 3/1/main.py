@@ -49,8 +49,6 @@ for i in range(len(arr)):
 
         line += curr_char
     results.append(find_all_numbers(line))
-    print(line)
-    print()
 
     
 
@@ -61,6 +59,7 @@ for y in range(len(results)):
 sum = 0
 for num in nums:
     if num.is_symbol_around(arr):
+        print(num.value)
         sum += int(num.value)
 
 print(sum)

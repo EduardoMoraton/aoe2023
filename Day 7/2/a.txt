@@ -1,0 +1,36 @@
+T55J5
+5
+T55J5
+6
+T55J5
+6
+T55J5
+6
+KTJJT
+5
+KTJJT
+6
+KTJJT
+6
+QQQJA
+6
+QQQJA
+6
+QQQJA
+6
+QQQJA
+5
+Hand Type: 2
+    32T3K type: 2 bid: 765
+Hand Type: 3
+    KK677 type: 3 bid: 28
+Hand Type: 6
+    T55J5 type: 6 bid: 684
+    QQQJA type: 6 bid: 483
+    KTJJT type: 6 bid: 220
+32T3K type: 2 bid: 765
+KK677 type: 3 bid: 28
+T55J5 type: 6 bid: 684
+QQQJA type: 6 bid: 483
+KTJJT type: 6 bid: 220
+5905
